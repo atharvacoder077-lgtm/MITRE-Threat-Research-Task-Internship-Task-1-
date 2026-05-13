@@ -14,4 +14,4 @@ This repository contains a comprehensive Cyber Threat Intelligence (CTI) researc
 **Document Included:**
 
 * `MITRE_ATTACK_Research_Report.pdf` - The complete formatted research and analysis document.
-* 
+  
